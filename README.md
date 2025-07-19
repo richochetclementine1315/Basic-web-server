@@ -1,5 +1,5 @@
 # Basic-web-server
-a basic web server made with golang
+A Web Server made with Golang
 <br></br>
 THE ARCHITECTURE :
 <br></br>
