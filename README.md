@@ -2,7 +2,6 @@
 A Web Server made with Golang
 <br></br>
 # The Workflow:
-<br></br>
 #``` localhost:8080/``` calls for the index.html file
 <br></br>
 #The```localhost:8080/hello``` calls for the hello function.
