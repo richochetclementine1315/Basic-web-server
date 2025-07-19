@@ -4,11 +4,11 @@ a basic web server made with golang
 <br></br>
 THE ARCHITECTURE :
 <br></br>
-#Here the root route calls for the index.html file
+#``` localhost:8080/``` calls for the index.html file
 <br></br>
-#The /hello calls for the hello function.
+#The```localhost:8080/hello``` calls for the hello function.
 <br></br>
-#The /form will be call for the form function and will be directed to the form.html.
+#The ```localhost:8080/form``` will be call for the form function and will be directed to the form.html
 <br></br>
 ![Screenshot 2025-04-05 142951](https://github.com/user-attachments/assets/a9121c2b-dd2f-482f-b62b-80d02a06c5d5)
 <br></br>
