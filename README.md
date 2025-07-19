@@ -33,6 +33,10 @@ on Your terminal run the following command
 ```
 go run main.go
 ```
+# In case of any query
+## Contact:
+mrinmoymatilal1315@gmail.com
+# Authored by: Mrinmoy Matilal.
 
 
 
