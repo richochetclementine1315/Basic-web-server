@@ -1,7 +1,7 @@
 # Basic-web-server
 A Web Server made with Golang
 <br></br>
-THE ARCHITECTURE :
+# The Workflow:
 <br></br>
 #``` localhost:8080/``` calls for the index.html file
 <br></br>
